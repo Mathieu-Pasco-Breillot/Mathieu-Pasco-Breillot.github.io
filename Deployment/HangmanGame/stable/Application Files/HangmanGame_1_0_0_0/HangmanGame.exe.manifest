@@ -54,18 +54,18 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CData.MySQL.System.dll" size="173472">
       <assemblyIdentity name="CData.MySQL.System" version="2.0.0.40" publicKeyToken="CDC168F89CFFE9CF" language="neutral" processorArchitecture="msil" />
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
-      <assemblyIdentity name="System.Data.CData.MySQL" version="15.0.0.40" publicKeyToken="CDC168F89CFFE9CF" language="neutral" processorArchitecture="msil" />
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="HangmanGame.exe" size="9031168">
       <assemblyIdentity name="HangmanGame" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.Data.CData.MySQL.dll" size="2801056">
+      <assemblyIdentity name="System.Data.CData.MySQL" version="15.0.0.40" publicKeyToken="CDC168F89CFFE9CF" language="neutral" processorArchitecture="msil" />
     </dependentAssembly>
   </dependency>
   <file name="HangmanGame.exe.config" size="256" />
