@@ -64,24 +64,9 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="HangmanGame.exe" size="9030144">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="HangmanGame.exe" size="9031168">
       <assemblyIdentity name="HangmanGame" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>L7HpUAAu195OZkllYZbIsKlhP/x3kdtZwiyYlkm7eG4=</dsig:DigestValue>
-      </hash>
     </dependentAssembly>
   </dependency>
-  <file name="HangmanGame.exe.config" size="256">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>kQAHXZPAuOG3TuEdU3tb7q3P2G0hUdak9s30/qcj2Dk=</dsig:DigestValue>
-    </hash>
-  </file>
+  <file name="HangmanGame.exe.config" size="256" />
 </asmv1:assembly>

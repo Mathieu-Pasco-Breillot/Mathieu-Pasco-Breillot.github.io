@@ -14,15 +14,8 @@
     <framework targetVersion="4.6" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\HangmanGame_1_0_0_0\HangmanGame.exe.manifest" size="6597">
+    <dependentAssembly dependencyType="install" codebase="Application Files\HangmanGame_1_0_0_0\HangmanGame.exe.manifest" size="5900">
       <assemblyIdentity name="HangmanGame.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="fr" processorArchitecture="amd64" type="win32" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>sq+zGFTY+CH2TrSs3ukSp/r5ONgXBWf75OwqptKDy0U=</dsig:DigestValue>
-      </hash>
     </dependentAssembly>
   </dependency>
 </asmv1:assembly>
