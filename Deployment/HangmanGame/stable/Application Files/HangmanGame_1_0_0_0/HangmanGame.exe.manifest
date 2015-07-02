@@ -68,5 +68,5 @@
       <assemblyIdentity name="System.Data.CData.MySQL" version="15.0.0.40" publicKeyToken="CDC168F89CFFE9CF" language="neutral" processorArchitecture="msil" />
     </dependentAssembly>
   </dependency>
-  <file name="HangmanGame.exe.config" size="256" />
+  <file name="HangmanGame.exe.config" size="257" />
 </asmv1:assembly>
